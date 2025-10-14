@@ -1,2 +1,2 @@
 # digidata2025
-setting up git repi for class
+setting up git repo for class
